@@ -10,3 +10,5 @@
 
 ## Links
 - [Microsoft Style Guide](https://www.microsoft.com/de-de/language/styleguides)
+- [Congree](https://congree.com/)
+- [WhatImean](https://whatimean.com/)
